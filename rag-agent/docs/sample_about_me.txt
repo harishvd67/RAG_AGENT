@@ -1,0 +1,11 @@
+V Harish is an MCA graduate from Annamacharya Institute of Technology and Sciences, Tirupati, with a CGPA of 9.01/10.
+
+He completed a Python Internship at Slash Mark IT Solutions, where he built a real-time face recognition system using OpenCV and machine learning techniques including CNN, PCA, LDA, SVM, and KNN.
+
+He also completed an Artificial Intelligence Internship at SkillDzire, Hyderabad, where he developed and trained AI models in Python for data analysis and predictive tasks.
+
+His projects include a machine learning system for predicting cloud task execution time to optimize resource utilization, and an AWS Capstone Project where he designed a highly available and scalable web architecture using EC2, Auto Scaling, RDS, S3, and CloudFront.
+
+He has published a research paper in the International Scientific Journal of Engineering and Management (ISJEM) and presented a paper at the International Conference on Intelligent Multidisciplinary Engineering System (ACME TECH-2K26).
+
+Replace this file with your own documents — resumes, notes, articles, PDFs — to ask questions about them instead.
